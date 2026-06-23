@@ -1,8 +1,19 @@
+<div align="center">
+
 # 🎬 AI Meeting Assistant
 
 AI-powered Meeting Assistant that transcribes audio/video, translates multilingual content, generates summaries, and enables conversational Q&A using RAG and LLMs.
 
-> 🚧 This project is currently under active development.
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-6E57E0?style=for-the-badge)
+![Whisper](https://img.shields.io/badge/OpenAI_Whisper-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Mistral AI](https://img.shields.io/badge/Mistral_AI-FF7000?style=for-the-badge)
+
+![Status](https://img.shields.io/badge/Status-Under_Development-yellow?style=for-the-badge)
+
+</div>
 
 ---
 
